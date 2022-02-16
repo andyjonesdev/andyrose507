@@ -21,6 +21,7 @@ Hey! My name is Andy and I'm an full-stack software engineer with an interest in
 
 ## What I'm Working On
 - a SoundCloud clone called float, featuring full CRUD for songs and comments and a react-h5-audio-player instance 
+- a one page reference sheet site for Material UI components and their prop options
 - an app which queries Riot's League of Legends API and displays stats about a player with D3.js integration for interactive graphs/charts
 
 
