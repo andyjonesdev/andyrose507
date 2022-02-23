@@ -1,5 +1,5 @@
 ## About Me
-Hey! My name is Andy and I'm an full-stack software engineer with an interest in working with a team to deliver visually appealing, user-friendly web content.  
+Hey! My name is Andy and I'm a full-stack software engineer with an interest in working with a team to deliver visually appealing, user-friendly web content.  
 
 ## Languages / Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
