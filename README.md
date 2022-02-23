@@ -19,6 +19,8 @@ Hey! My name is Andy and I'm an full-stack software engineer with an interest in
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyrose507&count_private=true&show_icons=true&theme=midnight-purple)
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=andyrose507&color=7F3ACE)
+
 ## What I'm Working On
 - a SoundCloud clone called float, featuring full CRUD for songs and comments and a react-h5-audio-player instance 
 - a one page reference site for Material UI components and their prop options
